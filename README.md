@@ -43,7 +43,6 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-file:///Users/maxskeen/Desktop/ezgif.com-optimize.gif
 ![](https://i.imgur.com/GWwORJ7.gif)
 
 
