@@ -46,5 +46,5 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/O6rj1CJMbC.gif" width=250><br>
 
 ### Notes
-Had some trouble accessing information from The Movie Database API.
+I had some trouble accessing information from The Movie Database API and properly formatting the gif in the README.
 
